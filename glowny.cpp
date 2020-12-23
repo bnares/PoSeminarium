@@ -8,7 +8,6 @@ int main()
 {
 
     KsiazkaAdresowa a("nowe.txt");
-    //a.wyswietlWszystkich();
     a.rejestracja();
     a.rejestracja();
     a.wyswietlWszystkich();
